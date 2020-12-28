@@ -1,11 +1,15 @@
 {
-  "name": "test",
+  "name": "jhkang",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/winz87/js_package_test.git"
   },
   "keywords": [],
   "author": "",
